@@ -17,4 +17,4 @@ Projects are the best way to learn JavaScript, and a calculator is one of the be
 
 # 👇 Live Demo
 
-<p>To see a live preview of the project, click<a href="https://codepen.io/ivaylokarafeizov/full/PoRRgyR"  target="_blank"> here</a>!</p>
+<p>To see a live preview of the project, click<a href="https://codepen.io/ivaylokarafeizov/full/MWVGpNN"  target="_blank"> here</a>!</p>
